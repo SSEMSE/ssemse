@@ -12,11 +12,16 @@ wp-content for ssemse
 * class list
 * galleries
 
-#### blocks
+#### blocks/widgets
 * facebook
 * calendar
 * upcoming
 * slider
+
+#### Theme/page elements
+* header (does it still have the tagcloud)
+* links
+* siteby/copyright
 
 #### classes
 * students should be able to check out for in person courses
@@ -29,15 +34,21 @@ wp-content for ssemse
 #### Payment
 * students should be able to check out 
 * it would be nice if the system allowed for in person checkout (e.g. square)
+* should display a cart on the page (if needed)
 
 ### Questions
-* Does sales need cart functionality?
+* Does sales (aed) need cart functionality?
 * Are galleries still needed?
 * Is the slider still needed?
 * Do students need to be emailed items, or can checking the dashboard suffice?
 * Do course materials need to be embedded?
 * Payment processing
 * What do quizzes look like?
-* Do students need any functionality like discussion boards/ chat, etc
-* better payment processing
-*send attachments to registered students (email?)
+* Do students need any functionality like discussion boards/ chat/ grades, etc
+* send attachments to registered students (email?)
+* do class types need to be diff feed or just have a note
+* do we keep the header the same?
+* paypal specific complaints
+* discounts/sales/in person use cases
+* plugin payment
+* will he accept cash/check as payment
